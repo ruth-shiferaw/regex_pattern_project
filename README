@@ -1,5 +1,7 @@
-Ruth Shiferaw
-JHED ID: RSHIFER1
+This is a university project I completed where the program receives a regex, which is a sequence of characters that
+defines a search pattern. Then the search patterns work to do “find” or “find-then-replace” operations on a given text.
+
+Here is my reflection:
 
 1.) Briefly justify the structure of your program; why you defined the functions you did, etc
 The structure of my program is as follows. In hw3.c, there is a main function with 2 parameters. The entire purpose of the
@@ -26,4 +28,7 @@ restriction value depending on the amount of ~ symbols present within the regex 
 where there isn’t a wildcard symbol present, but instead the regex is composed of only letters or other symbols.
 
 2.) Highlight anything you did that was particularly clever
-The logic behind the match function is clever (but necessarily so) because of the way recursion is implemented. The way the match function within functions.c searches for regex strings only composed of ~ symbols, and the way the main function in hw3.c checks for the optional third argument in the command line (for changing the restriction value) took trial and error to implement. They required clever methods of implementation in order for them to work properly.
+The logic behind the match function is clever (but necessarily so) because of the way recursion is implemented. The way the match 
+function within functions.c searches for regex strings only composed of ~ symbols, and the way the main function in hw3.c checks 
+for the optional third argument in the command line (for changing the restriction value) took trial and error to implement. They 
+required clever methods of implementation in order for them to work properly.
