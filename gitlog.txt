@@ -1,0 +1,185 @@
+commit 189f0660ea9669b49620ab373262becfe1cb94e9
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Feb 24 17:53:18 2023 -0500
+
+    Updated README.
+
+commit ca3b2c337b4672c3b3def4c15608b8294fa38d50
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Feb 24 17:51:31 2023 -0500
+
+    Pushing through all files. Ready for submission!
+
+commit 807a1ea84a93e5f19628f234efe9988fce2e1f4a
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Feb 24 16:53:48 2023 -0500
+
+    Updated comments on hw3.c.
+
+commit e8e71487d83e320b70e7b85e3ee6299f2f0f5ac7
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Feb 24 16:52:15 2023 -0500
+
+    Pushing through latest updates for test_functions.c, functions.c, and hw3.c.
+
+commit 4cede3737236a1764a555dbba15bffae1c2c9c98
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Feb 24 02:13:21 2023 -0500
+
+    Latest updates: hw3.c is working properly with helper functions. Makefile contains all the commands needed.
+
+commit a41cccdbeebcb08d61497d222331e497e7e54612
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Feb 24 02:10:40 2023 -0500
+
+    Additional tests have been written.
+
+commit f8c6213b6f5c763e6962f5b25d8517ace90ca463
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Feb 23 01:21:18 2023 -0500
+
+    Latest update: * ? and ~ portions have been implemented.
+
+commit 70d384a8549076634c03640bf2abfa7b93d0df93
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Feb 22 18:46:08 2023 -0500
+
+    Implemented star process.
+
+commit 09d307256ff831b3bd7736e7b6c254d113811c3c
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Feb 22 17:34:26 2023 -0500
+
+    Most updated version of files.
+
+commit 5d2893a2a85112d7f1a086ec0eee34a82f02d331
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Feb 22 15:42:12 2023 -0500
+
+    Makefile can now  compile the hw3 executable with the command make hw3, and create and run the test executable with the command make test.
+
+commit cf9d745d24e1a9c3a92216c106773a0a813dcf55
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Feb 22 14:06:33 2023 -0500
+
+    Updated functions.c to use the correct array to store words. Error tests working properly now.
+
+commit b40399e61b6089390c75e0e9a7c7799b3cecde54
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Tue Feb 21 17:41:32 2023 -0500
+
+    Input file stores into 2D array successfully.
+
+commit 48cb96445fafd3f34b3565b1e49495a4b236afb6
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Tue Feb 21 15:25:43 2023 -0500
+
+    hw3.c is reading first line of input file correctly now.
+
+commit dc0e59ac61f00def743b51167d8427d1e1b6c722
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Feb 15 23:07:27 2023 -0500
+
+    General update.
+
+commit bfa3579fa3bcbd436622fdcbe45127d4fd903bcb
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Feb 15 22:55:44 2023 -0500
+
+    Updating hw2 testing file now that the assignment is finished.
+
+commit abb7fa18e766ec0d6efeb4c22618d1ba07282612
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Feb 15 19:21:09 2023 -0500
+
+    Pushing through hw2 working file.
+
+commit 7d0fdb4be1fe361a7eb874b597a210a560b06e99
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Feb 11 12:45:51 2023 -0500
+
+    Fixed errors with ctrl-d.
+
+commit e24a74762382a0908b7632d6ef69fca93b4d7ad8
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Feb 11 12:24:38 2023 -0500
+
+    Pushing entire folder through.
+
+commit ac045682f523e7ef4cf9312875275240cf4c96cc
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Feb 11 12:22:11 2023 -0500
+
+    Fixed the last printing typo.
+
+commit 96d828d55882b9478d8dbe8c7ccedd9f95864ecc
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Feb 11 12:11:44 2023 -0500
+
+    Final update for hw1.
+
+commit 325ef94cd7399a876b8089a28fcd45763809dc0e
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Feb 10 20:49:26 2023 -0500
+
+    Recent update.
+
+commit b76af276bc5a2a9f53480b3565abf3dac42db8bc
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Feb 10 19:57:24 2023 -0500
+
+    Most recent version of hw1 assignment.
+
+commit d553cf0904dbf3de1f39b1b20bf9f5e4b6594c17
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Feb 10 10:36:50 2023 -0500
+
+    Updating with most current work.
+
+commit dc9e3355db66c8073fc4cffac4afe371b560d632
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Feb 10 09:24:40 2023 -0500
+
+    Saving first version of hw1.
+
+commit 7fea778244c5fc763c26fa3d92187cbbf0447812
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Feb 2 16:25:30 2023 -0500
+
+    Updated the hw0 files.
+
+commit 3dc5a902a979aa74a5860a2ae8c7e430c7cdf7e4
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Feb 1 01:33:24 2023 -0500
+
+    Cleaned up files in hw0 directory. Now contains the 3 files required.
+
+commit fc663b44f2c494ffe3a67592c6f61837eff22ee1
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Feb 1 01:31:31 2023 -0500
+
+    Created 3 files for hw 0.
+
+commit e2b8a680db9afdec81a6e132132f5ce664b4617b
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Feb 1 00:55:58 2023 -0500
+
+    general update for any moved files/created directories
+
+commit fe9eea078eec071e6e6ad496b89f7a0556b2000f
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Tue Jan 31 17:47:52 2023 -0500
+
+    Updated README.txt file.
+
+commit dd7fdad4fd98e523d8eb4c733a6428ad5ae6c405
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Tue Jan 31 17:36:45 2023 -0500
+
+    created README.txt file!
+
+commit cc6e0297a43a99e3f454ae01c954f94560f00c64
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Jan 27 13:15:02 2023 -0500
+
+    add README
