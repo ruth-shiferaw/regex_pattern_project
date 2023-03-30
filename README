@@ -1,6 +1,17 @@
 This is a university project I completed where the program receives a regex, which is a sequence of characters that
 defines a search pattern. Then the search patterns work to do “find” or “find-then-replace” operations on a given text.
 
+Description of functionality:
+* (Kleene star) - will match the regex character preceding the star 0 or more times
+For example, the regex a*bc matches a word consisting of some (possibly zero) numbers of the character a, followed by bc.
+? (Question Mark) - will match the regex character preceding the question mark 0 or 1 time, but no more. For example, the regex a?bc matches 
+consisting of at most one character a, followed by bc.
+~ (Tilde) - will match any group of length between [0, restriction], where restriction length can optionally be changed in the command line. 
+This overrides the standard ~ operator found in regex. For example, the regex ~bc will match any word of length at most restriction+2 ending in bc.
+
+
+
+
 Here is my reflection:
 
 1.) Briefly justify the structure of your program; why you defined the functions you did, etc
